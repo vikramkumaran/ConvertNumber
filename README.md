@@ -66,7 +66,7 @@ To run the test
 
 
 # Notes
-The code has quite a few hard coded strings. Ideally we would use enum classes and string contstants. For the purposes of this excercise it seemed like overkill to take that extra step.
+The code has quite a few hard coded strings. Ideally we would use enum classes and string contstants. For the purposes of this exercise it seemed like overkill to take that extra step.
 
-Also ideally the test cases would be written to work with a test harness and maybe an automated testing tool, with build automation (continuous integration and continues deployment) using tools like jenkins. Once again for the purposes of this excercise adding all of that seemed like overkill.
+Also ideally the test cases would be written to work with a test harness and maybe an automated testing tool, with build automation (continuous integration and continues deployment) using tools like jenkins. Once again for the purposes of this exercise adding all of that seemed like overkill.
 
