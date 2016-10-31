@@ -3,6 +3,9 @@ import java.util.HashMap;
 /**
  * Created by vikramkumaran on 10/31/16.
  *
+ * A utility class that converts integers between -999999 and 999999 to its
+ * string representation
+ *
  */
 public class ConvertNumber {
 
