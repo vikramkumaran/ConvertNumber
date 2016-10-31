@@ -1,0 +1,11 @@
+45	|	forty five
+3456    | 	three thousand fifty six
+100     | 	one hundred
+234     |       two thousand thirty four
+2034    |	two thousand thirty four
+2000    |	two thousand
+2030    |	two thousand thirty
+102034    |	one hundred two thousand thirty four
+100000    |	one hundred  thousand
+100100    |	one hundred  thousand one hundred
+100001    |	one hundred  thousand one
